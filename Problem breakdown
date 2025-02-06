@@ -1,0 +1,6 @@
+1. Create and make turtle move
+2. Generate car with associating level
+3. Each car's coordinate must be multiple of 10
+4. Detect collision between car and turtle (head collide and body collide)
+5. Create board to keep track of level and game
+6. Refresh the game when turtle reaches finish and increase car's speed
